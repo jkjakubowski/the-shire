@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Recoleta";
+  src: url("../assets/fonts/Recoleta-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Archivo";
+  src: url("../assets/fonts/Archivo-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Archivo Bold";
+  src: url("../assets/fonts/ArchivoSemiExpanded-Bold.otf");
+}
